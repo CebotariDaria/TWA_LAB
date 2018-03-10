@@ -1,0 +1,61 @@
+[
+  {
+    "question": "Which of the following is the correct syntax to redirect a url using JavaScript?",
+    "answers": {
+      "a": "document.location='http://www.newlocation.com'",
+      "b": "browser.location='http://www.newlocation.com'",
+      "c": "navigator.location='http://www.newlocation.com'",
+      "d": "window.location='http://www.newlocation.com'"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Which of the following is correct about features of JavaScript??",
+    "answers": {
+      "a": "JavaScript is is complementary to and integrated with HTML",
+      "b": "JavaScript is open and cross-platform",
+      "c": "Both of the above",
+      "d": "All of the above"
+      
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Which of the following type of variable takes precedence over other if names are same?",
+    "answers": {
+      "a": "global variable",
+      "b": "local variable",
+      "c": "Both of the above",
+      "d": "None of the above"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which of the following is not a software language?",
+    "answers": {
+      "a": "C",
+      "b": "C++",
+      "c": "Visual Basic",
+      "d": "HTML"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "question": "JavaScript is the same as Java?",
+    "answers": {
+      "a": "True",
+      "b": "False"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which operator is used to assign a value to a variable?",
+    "answers": {
+      "a": "m",
+      "b": "=",
+      "c": "-",
+      "d": "*"
+    },
+    "correctAnswer": "b"
+  }
+]
